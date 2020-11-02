@@ -1,0 +1,21 @@
+{
+  "name": "Estudio-TypeScript",
+  "version": "1.0.0",
+  "description": "Estudio del lenguaje TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ces1406/Estudio-TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ces1406/Estudio-TypeScript/issues"
+  },
+  "homepage": "https://github.com/ces1406/Estudio-TypeScript#readme",
+  "devDependencies": {}
+}
